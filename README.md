@@ -1,6 +1,6 @@
 # Does negation scope over selectional preferences?
 
-Code, stimuli and analysis for the seminar paper in `PAPER_DRAFT.md`.
+Code, stimuli and analysis for the seminar paper in `Advanced Topics in Computational Texts and media Sciences`.
 
 **The question in one line:** do language models know *what* a "not" applies to, or do they only react to seeing the word?
 
@@ -13,7 +13,6 @@ Code, stimuli and analysis for the seminar paper in `PAPER_DRAFT.md`.
 
 ```
 negation_scope/
-├── PAPER_DRAFT.md          paper draft; results sections are templates you fill in
 ├── README.md               this file
 ├── colab_run.ipynb         easiest way to run: free GPU on Google Colab
 ├── run_experiment.py       scores fillers under affirmative / negated frames
