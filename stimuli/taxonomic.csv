@@ -1,0 +1,46 @@
+item_id,subject_np,true_category,false_category
+X01,A robin,bird,fish
+X02,A salmon,fish,bird
+X03,An oak,tree,flower
+X04,A rose,flower,tree
+X05,A hammer,tool,vegetable
+X06,An apple,fruit,vegetable
+X07,A carrot,vegetable,fruit
+X08,A dog,mammal,reptile
+X09,A snake,reptile,mammal
+X10,An eagle,bird,fish
+X11,A shark,fish,mammal
+X12,A cow,mammal,bird
+X13,A violin,instrument,vehicle
+X14,A truck,vehicle,instrument
+X15,A chair,furniture,clothing
+X16,A sparrow,bird,insect
+X17,An ant,insect,bird
+X18,A bee,insect,fish
+X19,A tulip,flower,tree
+X20,A pine,tree,flower
+X21,A potato,vegetable,fruit
+X22,A banana,fruit,vegetable
+X23,A lion,mammal,bird
+X24,A frog,amphibian,bird
+X25,A crocodile,reptile,bird
+X26,Iron,metal,gas
+X27,Oxygen,gas,metal
+X28,Copper,metal,gas
+X29,Cotton,fabric,metal
+X30,Wool,fabric,metal
+X31,A spoon,utensil,animal
+X32,A bus,vehicle,animal
+X33,A guitar,instrument,vehicle
+X34,A drum,instrument,vehicle
+X35,A table,furniture,clothing
+X36,A sofa,furniture,vehicle
+X37,A dress,garment,tool
+X38,Wheat,grain,metal
+X39,Rice,grain,metal
+X40,A pigeon,bird,reptile
+X41,A cod,fish,bird
+X42,A beetle,insect,mammal
+X43,A horse,mammal,insect
+X44,A trout,fish,insect
+X45,A tiger,mammal,fish
